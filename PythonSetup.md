@@ -18,7 +18,7 @@ ___
 
 ___
 
-### Verify python3 installation
+### Step 2: Verify python3 installation
 
 1. Naviage to command prompt on windows machine. ```Win + R``` to open ```Run``` and type ```cmd``` and press ```Enter```.
 2. In command prompt type command ```python -V```. Make sure to use upper case V. 
@@ -28,7 +28,7 @@ ___
 
 ___
 
-### Installing Automagica 
+### Step 3: Installing Automagica 
 
 Python3 ships with pip to manage packages associated with python packages. Syntax to add a python package at global level is ```pip install <package name>```.
 
@@ -41,13 +41,13 @@ More information on this package can be found on [this link](https://pypi.org/pr
 
 ___
 
-### Installing ipythonkernel 
+### Step 4:Installing ipythonkernel 
 
 ```ipythonkernel``` is important to run automation in notebook environment. More information on this package can be found on [this link](https://ipython.readthedocs.io/en/stable/install/kernel_install.html)
 
 ```pip install ipykernel ```
 
-### Setting up development environment
+### Step 5: Setting up development environment
 
 Till this point, all the required libraries and python has been installed on your machine. Now it is time to setup an editor which will be used to create scripts for automation. 
 
